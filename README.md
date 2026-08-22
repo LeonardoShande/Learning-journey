@@ -98,4 +98,3 @@ _Nota: Las categorías representan **organización temática**, no "niveles de h
 
 ---
 
-**Próximas áreas a explorar:** [Actualizar según mis intereses]
