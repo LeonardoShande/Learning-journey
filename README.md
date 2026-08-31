@@ -85,15 +85,12 @@ Este repositorio representa mi evolución:
 - **Programming** → Dominar lenguajes y herramientas
 - **University** → Aplicar conocimiento en contexto académico
 - **Experiments** → Explorar áreas nuevas
-- **Projects** → Crear aplicaciones prácticas
-- **Portfolio** → Mostrar mis mejores trabajos
 
-_Nota: Las categorías representan **organización temática**, no "niveles de habilidad"._
 
 ## 📊 Estadísticas
 
 - Repositorio creado: Agosto 2026
-- Última actualización: 2026-08-22
+- Última actualización: 2026-08-30
 - Estado: En activo desarrollo
 
 ---
